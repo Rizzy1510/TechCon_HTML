@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"
+<meta name="viewport" content="width=device-width, initial-scale=1.0>
+<title>About TechCon 2024</title>
+</head>
+<body>
+<header>
+<h1>About TechCon 2024</h1>
+<nav>
+<ul>
+
+<li><a href="index.html">Home</a></li>
+<li><a href="schedule.html>Schedule</a></li>
+<li><a href="register.html">Register</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<article>
+<h2>History<h2>
+<p>Tech started as a small gathering of innovators and has now grown into one of the largest global conferences. It brings together developers, entrepreneurs, and industry leaders to share insights on emerging technologies</p>
+</article>
+</main>
+</body>
+
+</html>
